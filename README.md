@@ -27,22 +27,22 @@ The ultimate goal is to **support strategic business decisions** through **data 
 📂 **Project Workflow**
 
 **1. Data Loading & Cleaning**
-        Imported dataset in Python
-        Handled missing values & standardized columns
-        Feature engineering (age groups, purchase frequency)
+        * Imported dataset in Python
+        * Handled missing values & standardized columns
+        * Feature engineering (age groups, purchase frequency)
 
 **2. Exploratory Data Analysis (EDA)**
-        Visualized spending patterns, customer segments, product trends
+        * Visualized spending patterns, customer segments, product trends
 
 **3. Database Integration**
-        Loaded cleaned data into MS SQL Server
-        Executed SQL queries for business insights (e.g., revenue by gender, top-rated products)
+        * Loaded cleaned data into MS SQL Server
+        * Executed SQL queries for business insights (e.g., revenue by gender, top-rated products)
 
 **4. Dashboard Creation**
-        Built interactive **Power BI dashboard** for visualization
+        * Built interactive **Power BI dashboard** for visualization
 
 **5. Reporting**
-        Generated summary report & presentation using **Gamma**
+        * Generated summary report & presentation using **Gamma**
 
 
 📊 **Dashboard Highlights**
