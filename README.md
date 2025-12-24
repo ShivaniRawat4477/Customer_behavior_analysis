@@ -16,24 +16,24 @@ The ultimate goal is to **support strategic business decisions** through **data 
 
 ✨ **Key Features**
 
-     **Customer Demographics**: Age, Gender, Location, Subscription Status
+   **Customer Demographics**: Age, Gender, Location, Subscription Status
 
-     **Purchase Details**: Item, Category, Amount, Season, Size, Color
+   **Purchase Details**: Item, Category, Amount, Season, Size, Color
 
-     **Shopping Behavior**: Discounts, Promo Codes, Frequency, Review Ratings, Shipping Type
+   **Shopping Behavior**: Discounts, Promo Codes, Frequency, Review Ratings, Shipping Type
 
 
 🛠 **Tools Used**
 
-     **Python** – Data loading, cleaning, EDA (Pandas, sqlalchemy)
+   **Python** – Data loading, cleaning, EDA (Pandas, sqlalchemy)
 
-     **MS SQL Server** – Querying and structured analysis
+   **MS SQL Server** – Querying and structured analysis
 
-     **Power BI** – Interactive dashboard
+   **Power BI** – Interactive dashboard
 
-     **Gamma** – Automated presentation generation
+   **Gamma** – Automated presentation generation
 
-     **Jupyter Notebook** – Documentation and analysis
+   **Jupyter Notebook** – Documentation and analysis
 
 
 📂 **Project Workflow**
