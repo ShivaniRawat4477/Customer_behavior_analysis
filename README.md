@@ -5,11 +5,8 @@
 This project analyzes **customer shopping behavior** using transactional data to uncover:
 
 ✔ Spending patterns
-
 ✔ Customer segments
-
 ✔ Product preferences
-
 ✔ Subscription trends
 
 The ultimate goal is to **support strategic business decisions** through **data analytics and visualization**.
@@ -17,22 +14,16 @@ The ultimate goal is to **support strategic business decisions** through **data 
 ✨ **Key Features**
 
 **Customer Demographics**: Age, Gender, Location, Subscription Status
-
 **Purchase Details**: Item, Category, Amount, Season, Size, Color
-
 **Shopping Behavior**: Discounts, Promo Codes, Frequency, Review Ratings, Shipping Type
 
 
 🛠 **Tools Used**
 
 **Python** – Data loading, cleaning, EDA (Pandas, NumPy, Matplotlib, Seaborn)
-
 **MS SQL Server** – Querying and structured analysis
-
 **Power BI** – Interactive dashboard
-
 **Gamma** – Automated presentation generation
-
 **Jupyter Notebook** – Documentation and analysis
 
 
